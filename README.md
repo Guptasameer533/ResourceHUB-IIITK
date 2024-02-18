@@ -1,7 +1,7 @@
 # ResourceHUB
 
-A new Flutter project.
+A project for HackTheChain2.0
 
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+To use the app download it form the APK section.
