@@ -1,2 +1,7 @@
-# ResourceHUB-IIITK
-ResourceHUB is an all in one academic help app with integrated chatGPT model providing assistance to its user in developing themselves.
+# ResourceHUB
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
